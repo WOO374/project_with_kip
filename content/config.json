@@ -1,9 +1,9 @@
 {
-  "title": "Hong Minji",
-  "url": "https://hong-minji.github.io/works",
-  "description": "Marketing × Design × AI. Building growth through creativity and community",
-  "copyright": "© Hong Minji All rights reserved.",
-  "googleAnalyticsId": "G-3Y28TK5MZ0",
+  "title": "WOO MID-EUM",
+  "url": "https://github.com/WOO374",
+  "description": "언니와 함께 만들어본 깃허브-노션 연동",
+  "copyright": "© WOO MID-EUM",
+  "googleAnalyticsId": "NONE",
   "pathPrefix": "/works",
   "feedLimit": 4,
   "menu": [
@@ -17,21 +17,17 @@
     }
   ],
   "author": {
-    "title": "Hong Minji",
-    "photo": "/profile.jpg",
-    "description": "Creative Marketer | AI Contents | Conference & Event Design | MODULABS Community",
+    "title": "WOO MID-EUM",
+    "photo": "/logo.png",
+    "description" : "KBS",
     "contacts": [
       {
         "name": "linkedin",
-        "contact": "hongminji"
-      },
-      {
-        "name": "instagram",
-        "contact": "hong.min.ji"
+        "contact": "WOO MID-EUM"
       },
       {
         "name": "email",
-        "contact": "minji.hong.mj@gmail.com"
+        "contact": "dndn960321@gmail.com"
       }
     ]
   }
