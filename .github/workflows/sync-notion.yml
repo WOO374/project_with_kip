@@ -107,7 +107,7 @@ jobs:
           echo "🌐 **Site**: https://woo374.github.io/project_with_kip" >> $GITHUB_STEP_SUMMARY
         else
           echo "ℹ️ **Status**: No changes detected" >> $GITHUB_STEP_SUMMARY
-          echo "⏰ **Next check**: In 10 minutes" >> $GITHUB_STEP_SUMMARY
+          echo "⏰ **Next check**: In 30 minutes" >> $GITHUB_STEP_SUMMARY
         fi
 
         echo "" >> $GITHUB_STEP_SUMMARY
